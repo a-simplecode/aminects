@@ -4,7 +4,7 @@
 <p>- 🌱 I’m currently learning <b>NEXT JS</b> and <b>REDUX</b>.</p>
 <p>- 📫 You can reach me by: 
 <ul>
-<li>EMAIL: amineamine.dev@gmail.com</li>
+  <li>EMAIL: <a href="mailto:amineamine.dev@gmail.com">amineamine.dev@gmail.com</a></li>
 <li>PHONE: +961764662341</li>
 <li>WHATSAPP: +96176466341</li>
 </ul>
