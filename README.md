@@ -5,7 +5,7 @@
 <p>- 📫 You can reach me by: 
 <ul>
   <li>EMAIL: <a href="mailto:amineamine.dev@gmail.com">amineamine.dev@gmail.com</a></li>
-<li>PHONE: +961764662341</li>
+<li>PHONE: +96176466341</li>
 <li>WHATSAPP: +96176466341</li>
 </ul>
 </p>
